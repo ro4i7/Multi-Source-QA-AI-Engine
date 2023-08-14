@@ -44,7 +44,7 @@ Utilizing LangChain, the application employs chunking to break down large pieces
 
 1. Clone the repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the application using `python app.py`.
+3. Run the application using your jupyter notebook.
 4. Access the application through your web browser at `http://localhost:5000`.
 
 ## Conclusion
